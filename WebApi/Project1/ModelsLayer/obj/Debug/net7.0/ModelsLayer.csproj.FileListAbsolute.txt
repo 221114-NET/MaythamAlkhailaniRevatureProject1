@@ -1,0 +1,12 @@
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/bin/Debug/net7.0/ModelsLayer.deps.json
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/bin/Debug/net7.0/ModelsLayer.dll
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/bin/Debug/net7.0/ModelsLayer.pdb
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ModelsLayer.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ModelsLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ModelsLayer.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ModelsLayer.AssemblyInfo.cs
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ModelsLayer.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ModelsLayer.dll
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/refint/ModelsLayer.dll
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ModelsLayer.pdb
+/Users/mac/Desktop/Revature/MaythamAlkhailaniRevatureProject1/WebApi/Project1/ModelsLayer/obj/Debug/net7.0/ref/ModelsLayer.dll
