@@ -1,0 +1,71 @@
+ Login will need Email and Password
+ if ( uername == " " && password == " ")
+ {
+    Access 
+ }
+else
+{
+    Deny access
+}
+ using SQL Simpel DB build. 
+
+
+Login will be sent to the database for checking
+
+
+ Rejester will send the information rejesterd.
+
+ Public class BusinessClass 
+ {
+    public ReimbursementClass PostList(ReimbursementClass l)
+    {
+        Takse user input 
+        System.Console.WriteLine(" ");
+        string answer = Console.ReadLine();
+        >
+        >
+        >
+        >
+
+        System.Console.WriteLine("Manager Respond");
+
+        Name = "";
+        ID = "";
+        TimeOff = "";
+        FuelCost = "";
+        BusinessTripCost = "";
+
+        BusinessClass Approval = RepoClass.PostList(L);
+
+        >
+        
+        return ;
+    }
+ }
+  
+The RepoClass will be link to the DB no need for the temp LinkedList<reimbursement>
+
+The flow of info will be: 
+
+            ApiUI
+              v
+            BusinessLayer
+              v
+            RepoLayer
+              v
+            ModelsLayer
+
+ To Get the reimbursement, Just send the employee ID
+ 
+
+ Admin will get the pending employee list will need to send his ID
+
+ 
+ Admin will send the employee ID to change the status of the Approval. 
+
+ 
+
+
+
+
+
