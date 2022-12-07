@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "ReimbursementDb/ReimbursementDb.sqlproj",
+        "ApiUi/DataBase/DataBase.sqlproj"
+    ]
+}
