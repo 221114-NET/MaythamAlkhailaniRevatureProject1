@@ -18,6 +18,8 @@ public class Program
         builder.Services.AddSwaggerGen();
         //We are injecting P1dbContext into MemoryDatabase so that we can read and access the database.
         builder.Services.AddDbContext<P1dbContext>(options => options.UseInMemoryDatabase("P1dbContext"));
+        //builder.Services.AddDbContext<P1dbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("P1ApiConnectionString")));
+
 
         var app = builder.Build();
 
